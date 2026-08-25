@@ -14,17 +14,17 @@ This project delivers an interactive, 3-page **Executive Power BI Dashboard** bu
 ### Page 1: Financial Overview
 * **Focus:** High-level revenue performance, profitability, and customer segmentation.
 * **Key Visuals:** Executive KPI Cards (Total Revenue, Net Profit, Gross Margin %), Line & Clustered Column Chart for Sales & Profit Trends, Customer Segment Distribution, and Regional Sales Performance.
-* **Preview Placeholder:** `![Page 1 Financial Overview](overview/Page1.png)`
+* **Preview Placeholder:** ![Page 1 Financial Overview](overview/Page1.png)
 
 ### Page 2: Logistics & Shipping Efficiency
 * **Focus:** Delivery speed, delay bottleneck identification, and SLA risk tracking.
 * **Key Visuals:** Shipping Performance KPIs, Actual vs. Scheduled Shipping Days by Mode (Bar Chart), Regional Late Delivery Risk Matrix (Heatmap), and Preferred Shipping Mode Distribution (Treemap).
-* **Preview Placeholder:** `![Page 2 Logistics Efficiency](assets/page2.png)`
+* **Preview Placeholder:** ![Page 2 Logistics Efficiency](overview/Page2.png)
 
 ### Page 3: Category & Inventory Strategy (Pareto ABC Analysis)
 * **Focus:** Inventory classification, 80/20 revenue drivers, and profit-bleeding categories.
 * **Key Visuals:** Pareto Analysis (Line & Stacked Column Chart), Category-wise Sales & Profit Matrix, Bottom 10 Least Profitable Categories (Bar Chart), and Dynamic Class A Count KPI Card.
-* **Preview Placeholder:** `![Page 3 Inventory Strategy]()`
+* **Preview Placeholder:** ![Page 3 Inventory Strategy](overview/Page3.png)
 
 ---
 
